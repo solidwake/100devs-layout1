@@ -1,2 +1,2 @@
 # 100devs-layout1
-Simple layout with header, nav, and 5 sections
+Simple layout with header, footer, and 5 sections
